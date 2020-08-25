@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!--以DrawerLayout作为界面的根布局-->
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:id="@+id/drawerLayout"
+android:layout_height="match_parent"
+tools:context=".activity.CustomUiActivity">
+<!--主界面，主内容区的布局代码要放在侧滑菜单布局的前面-->
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.slayer.slayertool.widget.AnimationButton
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/custom_ui_animation_button1"/>
+</LinearLayout>
+<!--侧滑界面,必须设置layout_gravity属性,表示侧滑方向-->
+<LinearLayout
+    android:layout_gravity="start"
+    android:id="@+id/ll"
+    android:background="#FFFF00"
+    android:orientation="vertical"
+    android:layout_width="300dp"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="侧滑菜单"/>
+</LinearLayout>
+
+</androidx.drawerlayout.widget.DrawerLayout>

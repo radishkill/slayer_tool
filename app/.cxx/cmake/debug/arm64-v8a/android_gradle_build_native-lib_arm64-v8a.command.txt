@@ -1,0 +1,7 @@
+Executable : /home/slayer/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/slayer/workspace/AndroidStudioProjects/SlayerTool/app/.cxx/cmake/debug/arm64-v8a
+native-lib
+jvmArgs : 
+

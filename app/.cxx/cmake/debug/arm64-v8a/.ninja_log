@@ -1,0 +1,9 @@
+# ninja log v5
+0	948	1596214662	CMakeFiles/native-lib.dir/native-lib.cpp.o	53ae295787b0bd13
+0	1215	1596214663	CMakeFiles/native-lib.dir/native-test.cpp.o	328182d99a04e2d8
+1215	1449	1596214663	/home/slayer/workspace/AndroidStudioProjects/SlayerTool/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	c1870626fee9b05
+1	2056	1596625223	CMakeFiles/native-lib.dir/native-lib.cpp.o	53ae295787b0bd13
+1	2124	1596625223	CMakeFiles/native-lib.dir/native-test.cpp.o	328182d99a04e2d8
+2124	3163	1596625224	/home/slayer/workspace/AndroidStudioProjects/SlayerTool/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	c1870626fee9b05
+2	3391	1598294588	CMakeFiles/native-lib.dir/native-test.cpp.o	328182d99a04e2d8
+3391	4905	1598294590	/home/slayer/workspace/AndroidStudioProjects/SlayerTool/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	c1870626fee9b05

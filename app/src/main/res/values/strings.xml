@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SlayerTool</string>
+    <string name="location_text">定位</string>
+    <string name="add_widget">Add widget</string>
+    <string name="close_location_service">close</string>
+    <string name="title_activity_utils_widget_configure">UtilsWidgetConfigure</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="alarmInterval">interval</string>
+    <string name="main_service_status">主服务状态</string>
+    <string name="main_service_binder">主服务连接器</string>
+    <string name="phone_screen_monitor_switch">屏幕监测开关</string>
+    <string name="phone_battery_monitor_switch">电量监测开关</string>
+
+</resources>

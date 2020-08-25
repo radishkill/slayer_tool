@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/utils_provider"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000099CC"
+    android:orientation="horizontal">
+
+    <Button
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:text="@string/location_text"
+        android:id="@+id/appwidget_utils_get_location"/>
+    <Button
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:text="@string/close_location_service"
+        android:id="@+id/appwidget_utils_close_location_service"/>
+
+</LinearLayout>
